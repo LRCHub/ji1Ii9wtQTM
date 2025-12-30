@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Get Outta My Way",
+  "base_artist": "Kylie Minogue",
+  "createdAt": "2025-12-30T14:01:56.278324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Kylie",
+      "has_synced": true,
+      "path": "select/01_Get_Outta_My_Way_Kylie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/02_Get_Outta_My_Way_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/03_Get_Outta_My_Way_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "VERIVERY",
+      "has_synced": true,
+      "path": "select/04_Get_Outta_My_Way_VERIVERY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/05_Get_Outta_My_Way_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/06_Get_Outta_My_Way_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Дима Билан",
+      "has_synced": true,
+      "path": "select/07_Get_Outta_My_Way_Дима_Билан.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/08_Get_Outta_My_Way_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/09_Get_Outta_My_Way_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Carolina Rain",
+      "has_synced": true,
+      "path": "select/10_Get_Outta_My_Way_Carolina_Rain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/11_Get_Outta_My_Way_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Outta My Way",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/12_Get_Outta_My_Way_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Outta My Way",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Outta_My_Way_Kylie_Minogue.txt"
+    }
+  ]
+}
