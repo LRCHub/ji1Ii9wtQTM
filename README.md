@@ -1,0 +1,83 @@
+# Kylie Minogue – Get Outta My Way
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:22.78] What's the worst thing that could happen to you?
+[00:27.44] Take the chance tonight and try something new
+[00:30.79] You're getting boring, you're oh-so-boring
+[00:34.53] And I don't recognize the zombie you turn into
+[00:57.53] 
+[00:38.58] Don't worry 'cause tonight I got you
+[00:42.31] You can take a seat, do what you normally do
+[00:46.06] I'm about to let you see
+[00:49.15] This is what'll happen if you ain't givin' your girl what she needs
+[01:22.65] 
+[00:53.36] Leave you, move on to a perfect stranger
+[00:57.12] You talk, I walk, wanna feel the danger
+[01:00.75] See me with him and it's turning you on
+[01:03.23] It's got me saying
+[01:04.52] Getting me back at the end of this song
+[01:24.02] 
+[01:07.04] Get outta my way
+[01:08.70] Get outta my way
+[01:10.60] Got no more to say
+[01:12.41] He's taken your place
+[01:14.62] Get outta my way
+[01:15.94] Way outta my way
+[01:18.09] Got no more to say
+[01:19.98] He's taken your place
+[01:21.77] Get outta my way
+[01:29.77] 
+[01:23.55] Now I gotta taste, I wanna explore
+[01:27.10] Ain't going to waste, no, not anymore
+[01:30.63] You going hard now to win my heart, but
+[01:34.54] Too many times now, you've been comin' up short
+[01:58.04] 
+[01:38.66] Don't worry 'cause tonight, I got you
+[01:42.39] You can take a seat, do what you normally do
+[01:45.88] I'm about to let you see
+[01:49.10] This is what'll happen if you ain't givin' your girl what she needs
+[02:22.60] 
+[01:53.79] Leave you, move on to a perfect stranger
+[01:57.26] You talk, I walk, wanna feel the danger
+[02:00.54] See me with him and it's turning you on
+[02:03.39] It's got me saying
+[02:04.49] Getting me back at the end of this song
+[02:23.99] 
+[02:07.03] Get outta my way
+[02:08.50] Get outta my way
+[02:10.66] Got no more to say
+[02:12.50] He's taken your place
+[02:14.47] Get outta my way
+[02:16.00] Way outta my way
+[02:18.15] Got no more to say
+[02:19.91] He's taken your place
+[02:21.81] Get outta my way
+[02:29.81] 
+[02:30.59] No, I ain't goin' home 'cause I wanna stay
+[02:34.81] But I won't be alone, no how, no way
+[02:38.52] Now I've showed you what I'm made of
+[02:41.70] This is what'll happen if you ain't givin' your girl what she needs
+[03:15.20] 
+[02:45.93] Leave you, move on to a perfect stranger
+[02:49.65] You talk, I walk, wanna feel the danger
+[02:53.00] See me with him and it's turning you on
+[02:55.72] It's got me saying
+[02:56.92] Getting me back at the end of this song
+[03:16.42] 
+[02:59.45] Get outta my way
+[03:01.22] Get outta my way
+[03:03.06] Got no more to say
+[03:05.00] He's taken your place
+[03:06.89] Get outta my way
+[03:08.55] Way outta my way
+[03:10.48] Got no more to say
+[03:12.69] He's taken your place
+[03:14.35] Get outta my way
+[03:22.35] 
+[03:16.04] No, I ain't goin' home
+[03:19.84] But I won't be alone
+[03:23.54] Now I've showed you what I'm made of
+[03:27.34] Now I've showed you what I'm made of
+```
